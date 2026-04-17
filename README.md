@@ -44,6 +44,12 @@ Experiments/
 
 ---
 
+## Progress
+
+- Course enrolled
+- Projects pending
+- Learning phase ongoing
+
 ## Author
 
 Veerakumar Ashokan
