@@ -12,7 +12,7 @@ This section contains real-world AI projects built as part of the learning proce
 
 ## Projects
 
-### vira-ai-assistant/
+### vira-ai-assistant
 AI Accountability Assistant for tracking tasks, analyzing behavior, and improving consistency.
 
 ---
