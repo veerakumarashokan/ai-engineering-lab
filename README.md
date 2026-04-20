@@ -1,55 +1,53 @@
 # AI Engineering Lab
 
-This repository documents my learning and practical implementation of artificial intelligence concepts, including Python programming, machine learning, and real-world problem solving.
+This repository documents my journey in learning and building practical AI systems, focusing on real-world applications rather than theoretical concepts.
+
+## 🎯 Objective
+
+- Build AI-powered systems from scratch  
+- Focus on problem-solving and practical implementation  
+- Learn by building projects and experiments  
 
 ---
 
-## Focus Areas
+## 📂 Structure
 
-- Python programming  
-- Data structures and logic building  
-- Machine learning fundamentals  
-- Data preprocessing and handling  
-- Practical AI mini-projects  
+### 🔬 experiments/
+Small tests and quick implementations to explore ideas and concepts.
 
----
+### 📘 notes/
+Structured learning notes covering:
+- Fundamentals
+- Machine Learning
+- Deep Learning
 
-## Objective
+### 🚀 projects/
+Main AI projects built with real-world use cases.
 
-To build strong foundational and practical AI skills through consistent learning, experimentation, and project-based implementation.
+### 🐍 python/
+Core Python learning, scripts, and fundamentals used across projects.
 
----
-
-## Repository Structure
-
-Notes/
-├── Python/
-├── Machine-Learning/
-├── Data/
-
-Projects/
-├── Mini-Projects/
-├── Course-Projects/
-
-Experiments/
+### 🛠 tools/
+Utilities, helper scripts, and tools used during development.
 
 ---
 
-## Approach
+## 🔥 Current Focus
 
-- Learn concepts through structured study  
-- Apply knowledge through small projects  
-- Document progress and understanding  
-- Build a portfolio of practical implementations  
+- Building **Vira — AI Accountability Assistant**
+- Learning AI through project-based approach
+- Developing practical systems instead of isolated models
 
 ---
 
-## Progress
+## 📈 Approach
 
-- Course enrolled
-- Projects pending
-- Learning phase ongoing
+> Build → Fail → Learn → Improve
 
-## Author
+This repository reflects continuous learning through hands-on implementation.
 
-Veerakumar Ashokan
+---
+
+## 📌 Status
+
+Active and evolving.
