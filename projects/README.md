@@ -1,13 +1,31 @@
 # Projects
 
-This section contains practical AI projects and implementations.
+This section contains real-world AI projects built as part of the learning process.
 
-## Includes
+## Objective
 
-- Mini projects  
-- Course-based projects  
-- Applied problem solving  
+- Apply concepts in practical scenarios  
+- Build complete systems, not just models  
+- Solve real problems using AI  
 
-## Goal
+---
 
-To build hands-on experience through real implementations.
+## Projects
+
+### vira-ai-assistant/
+AI Accountability Assistant for tracking tasks, analyzing behavior, and improving consistency.
+
+---
+
+## Approach
+
+Each project includes:
+- problem definition  
+- implementation  
+- iteration and improvement  
+
+---
+
+## Focus
+
+Projects are the core of this repository.
